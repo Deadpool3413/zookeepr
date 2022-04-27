@@ -99,15 +99,6 @@
       "personalityTraits": [
         "hungry"
       ]
-    },
-    {
-      "name": "Pluto",
-      "species": "Dog",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "goofy"
-      ],
-      "id": "10"
     }
   ]
 }
