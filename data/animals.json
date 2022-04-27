@@ -101,11 +101,11 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "Pluto",
+      "species": "Dog",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "goofy"
       ],
       "id": "10"
     }
